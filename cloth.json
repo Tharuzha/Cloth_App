@@ -39,7 +39,7 @@
       "description": "This light and airy pink shirt is perfect for warm weather. Made from 100% cotton, it's breathable and comfortable to wear. It features a classic button-down collar and a relaxed fit.",
       "oldPrice": 25,
       "picUrl": [
-        "https://firebasestorage.googleapis.com/v0/b/project175-f1c13.appspot.com/o/item_1.png?alt=media&token=6910a49c-ddda-430d-8bfc-796beb97660f"
+        "https://firebasestorage.googleapis.com/v0/b/cloth-app-8b2a4.appspot.com/o/item_1.png?alt=media&token=d2ff1278-ebce-403d-ba11-3dc6f41302ba"
       ],
       "price": 35,
       "rating": 4.6,
@@ -50,7 +50,7 @@
       "description": "This light and airy pink shirt is perfect for warm weather. Made from 100% cotton, it's breathable and comfortable to wear. It features a classic button-down collar and a relaxed fit.",
       "oldPrice": 40,
       "picUrl": [
-        "https://firebasestorage.googleapis.com/v0/b/project175-f1c13.appspot.com/o/item_2.png?alt=media&token=c5e7de9c-e3e7-4fd2-a4de-7ef7086703a1"
+        "https://firebasestorage.googleapis.com/v0/b/cloth-app-8b2a4.appspot.com/o/item_2.png?alt=media&token=5fbf6eae-1b27-42c6-ba09-1c8370d41755"
       ],
       "price": 55,
       "rating": 4.1,
@@ -61,7 +61,7 @@
       "description": "This cozy orange cable knit sweater is perfect for winter weather. Made from 100% wool, it's warm and stylish. It features a classic crewneck collar and a relaxed fit.",
       "oldPrice": 60,
       "picUrl": [
-        "https://firebasestorage.googleapis.com/v0/b/project175-f1c13.appspot.com/o/item_3.png?alt=media&token=ed69dbba-3483-48d7-892b-2fc060fe7d8f"
+        "https://firebasestorage.googleapis.com/v0/b/cloth-app-8b2a4.appspot.com/o/item_3.png?alt=media&token=9798ec41-835c-4f20-b3d0-e470a8b52f6e"
       ],
       "price": 75,
       "rating": 4.5,
@@ -72,10 +72,10 @@
       "description": "This stylish red and black plaid shirt is perfect for any occasion. Made from a soft cotton blend, it's comfortable to wear. It features a classic button-down collar and a relaxed fit.",
       "oldPrice": 30,
       "picUrl": [
-        "https://firebasestorage.googleapis.com/v0/b/project175-f1c13.appspot.com/o/item_4.png?alt=media&token=237c1fe3-b071-44ad-be4d-045a64cd8120",
-        "https://firebasestorage.googleapis.com/v0/b/project175-f1c13.appspot.com/o/item_4_1.png?alt=media&token=21293576-ab82-498a-968f-7d9252d470be",
-        "https://firebasestorage.googleapis.com/v0/b/project175-f1c13.appspot.com/o/item_4_2.png?alt=media&token=5f4872d2-5660-4f28-bd2f-e6358f6d06e3",
-        "https://firebasestorage.googleapis.com/v0/b/project175-f1c13.appspot.com/o/item_4_3.png?alt=media&token=a1f381e8-f0ff-45eb-a67b-5860a138cc15"
+        "https://firebasestorage.googleapis.com/v0/b/cloth-app-8b2a4.appspot.com/o/item_4.png?alt=media&token=d8c88b72-e108-46f5-8638-ebbd3ede98c3",
+        "https://firebasestorage.googleapis.com/v0/b/cloth-app-8b2a4.appspot.com/o/item_4_1.png?alt=media&token=fdfd44d1-6390-4ece-83d0-1544c1256bc5",
+        "https://firebasestorage.googleapis.com/v0/b/cloth-app-8b2a4.appspot.com/o/item_4_2.png?alt=media&token=7f0d105f-077c-4798-a997-c5d29a06d469",
+        "https://firebasestorage.googleapis.com/v0/b/cloth-app-8b2a4.appspot.com/o/item_4_3.png?alt=media&token=db444d16-8c6a-472c-9fd3-467ea0fe37f3"
       ],
       "price": 40,
       "rating": 4.2,
